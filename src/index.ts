@@ -1,4 +1,4 @@
-function solution(): any {
+function solution() {
   return "";
 }
 
