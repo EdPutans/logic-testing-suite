@@ -2,7 +2,8 @@
 
 Given a snake case string, like `hello_children`, return the camel case string, like `helloChildren`.
 
-Assume: 
+Assume:
+
 - the input will always be a string
 - the input will always be snake case
 - the input will always be lowercase
