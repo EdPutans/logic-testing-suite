@@ -1,6 +1,5 @@
-
-function solution() {
-  //code your solution here
+function snakeCaseToCamelCase(str: string): string {
+  return '';
 }
 
-export default solution;
+export default snakeCaseToCamelCase;

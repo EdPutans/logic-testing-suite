@@ -19,3 +19,7 @@ Use this preset to build out codewars-like exercises.
 4. Code your solution in `src/index`
 5. Make the tests pass.
 6. Submit your work according to todays instructions.
+
+## Contributions and future dev'ing.
+
+A visual representation simialar to codewars could be useful here. Feel free to fork and work.
