@@ -1,7 +1,6 @@
 # testing suite
 
 Use this preset to build out codewars-like exercises.
-
 ## Creation [for teachers]:
 
 1. Clone this repo
