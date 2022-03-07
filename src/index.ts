@@ -1,5 +1,5 @@
 function camelCaseToSnakeCase(str: string): string {
-  return ''
+  return "";
 }
 
 export default camelCaseToSnakeCase;
