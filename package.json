@@ -1,7 +1,7 @@
 {
-  "name": "testing-suite",
+  "name": "snake-case-to-camel-case",
   "version": "1.0.0",
-  "description": "Template to build Codewars-like challenges. But no Kyu4u.",
+  "description": "",
   "main": "src/index.ts",
   "author": "Ed Putans",
   "license": "MIT",
@@ -13,5 +13,6 @@
   "dependencies": {
     "jest": "27.5.1",
     "node": "17.5.0"
-  }
+  },
+  "keywords": []
 }
