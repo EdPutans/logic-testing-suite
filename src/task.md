@@ -1,16 +1,16 @@
-### Snake case to camel case
+### Camel case to Snake case
 
-Given a snake case string, like `hello_children`, return the camel case string, like `helloChildren`.
-Note that the first letter is not capitalized.
+Given a camel case string, like `helloChildren`, return the snake case string, like `hello_children`.
 
 Assume: 
 - the input will always be a string
-- the input will always be snake case
-- the input will always be lowercase
-- the input will ONLY contain letters and underscores
+- the input will always be camelCase
+- the input will start with lowercase Only
+- the input will always be all letters
+- the output should be all lowercase snake_case
 
 # Usage
 
 1. Install
 2. Run `npm start` to launch the testing suite
-3. Submit your solution when you get all the tests to pass
+3. Submit your solu
