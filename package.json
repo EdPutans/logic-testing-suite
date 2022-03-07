@@ -1,0 +1,16 @@
+{
+  "name": "testing-suite",
+  "scripts": {
+    "start": "vitest"
+  },
+  "version": "1.0.0",
+  "description": "Template to build Codewars-like challenges. But no Kyu4u.",
+  "main": "src/index.ts",
+  "author": "Ed Putans",
+  "license": "MIT",
+  "type": "commonjs",
+  "private": false,
+  "dependencies": {
+    "vitest": "^0.5.9"
+  }
+}
